@@ -2,6 +2,6 @@
 
 
 
-> Jira test
-> Jira -> Github integration is working!
+> Jira test  
+> Jira -> Github integration is working!  
 > Validation  
