@@ -1,7 +1,1 @@
-### Serge Kurian
-
-
-
-> Jira test  
-> Jira -> Github integration is working!  
-> Validation  
+# Serge Kurian
